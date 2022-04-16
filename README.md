@@ -6,7 +6,7 @@ I’m Seddike Tanvir from Narsingdi,Bangladesh . Working mainly as a student & b
 & love to write code . I love to learn new skills & gain knowledge .
 
 
-Skills:
+Skills:<br>
 ✅ HTML<br> 
 ✅ CSS<br>
 ✅ Wordpress<br>
