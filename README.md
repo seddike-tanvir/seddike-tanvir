@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Seddike Tanvir
+## Hi! I'm Seddike Tanvir
 ###### Learner | Web Developer | Tech Lover
 ![Learner | Web Developer | Tech Lover](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/257523038_424346159346323_3239797106003807002_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=fIQWrxXdLZ4AX-miA9c&_nc_ht=scontent.fcgp27-1.fna&oh=00_AT96jJns6nlWRw1F3hQZqfFeGZmfrqqBMbpec_75lFGijQ&oe=625EFC76)
 
